@@ -35,7 +35,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,git,github,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,git,github,html,xml" />
 </p>
 
 ---
