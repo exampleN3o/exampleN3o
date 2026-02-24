@@ -19,7 +19,7 @@
 ## 🖼️ Imagen de Perfil / Banner
 
 <p align="center">
-  <img src="./diseño sin titulo.gif" alt="banner" width="800"/>
+  <img src="./Diseño sin título.gif" alt="banner" width="800"/>
 </p>
 
 ---
