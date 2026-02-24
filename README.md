@@ -19,7 +19,7 @@
 ## 🖼️ Imagen de Perfil / Banner
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x250.png?text=Tu+Banner+Aqui" alt="banner" width="800"/>
+  <img src="./diseño sin titulo.gif" alt="banner" width="800"/>
 </p>
 
 ---
