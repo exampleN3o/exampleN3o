@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hola, soy Neo :)</h1>
 
 <p align="center">
-  💻 Desarrollador | 🚀 Apasionado por la tecnología | 🌎 Siempre aprendiendo
+  💻 Desarrolladora | 🚀 Apasionada por la tecnología | 🌎 Siempre aprendiendo
 </p>
 
 ---
